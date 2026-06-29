@@ -3,8 +3,6 @@
 My personal portfolio site. It's a single page built with plain HTML, CSS and
 vanilla JavaScript — no frameworks, no build step, nothing to install.
 
-**Live:** _add your deployed URL here_
-
 ## Built with
 
 - HTML5 with semantic markup
